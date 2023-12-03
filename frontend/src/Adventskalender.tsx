@@ -6,7 +6,8 @@ import "./Adventskalender.css"
 
 
 export interface TuerchenConfig {
-    day: number,
+    day: number;
+    title?: string;
     md: string;
     openable: boolean;
     x: number;
@@ -24,14 +25,15 @@ export const Adventskalender: React.FunctionComponent<{}> = ({}) => {
         {day: 1, md: "# Hi, *Pluto*!", openable: true, x: 100, y: 100, width: 100, height: 100},
         {
             day: 2,
-            md: "# Hi, *Pluto2*! [Test](https://google.com)",
+            md: "# Hi, *Pluto2*! [Test](https://google.com)# Hi, *Pluto2*! [Test](https://google.com)",
             openable: true,
+            title: "Snowy surprise",
             x: 300,
             y: 300,
             width: 100,
             height: 100
         },
-        {day: 3, md: "# Hi, *Pluto3*!", openable: false, x: 500, y: 500, width: 100, height: 100},
+        {day: 3, md: "![image info](https://api.memegen.link/images/buzz/memes/memes_everywhere.webp?token=wxgjeu3jll4dt9q6fihy&width=800)", openable: true, x: 500, y: 500, width: 100, height: 100},
     ]);
 
     const openTuerchen = (tuerchenConfig: TuerchenConfig) => setCurrentTuerchen(tuerchenConfig)
