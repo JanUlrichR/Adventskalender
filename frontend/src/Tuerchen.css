@@ -1,0 +1,21 @@
+.Tuerchen{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+
+    border:1px solid rgba(255, 255, 255, .2);
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Tuerchen-font{
+    font-size: 60px;
+    color: white;
+    margin: 0;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100%;
+}
