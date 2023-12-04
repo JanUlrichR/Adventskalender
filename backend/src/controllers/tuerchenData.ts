@@ -1,6 +1,8 @@
-import {TuerchenConfig} from "./tuerchen";
+import {AdventskalenderConfig, TuerchenConfig} from "./tuerchen";
 
-export const calendarConfig: TuerchenConfig[] = [
+
+
+const calendarConfig: TuerchenConfig[] = [
     {
         "day": 1,
         "md": "Ping",
@@ -218,3 +220,10 @@ export const calendarConfig: TuerchenConfig[] = [
         "height": 100
     }
 ]
+
+export const adventskalenderConfig: AdventskalenderConfig = {
+    bgUrl: "https://cdn.discordapp.com/attachments/108572403575058432/1180946764728123453/lenbei_snowy_village_at_night_24_houses_advent_calendar_e64baf5c-9c7b-4ffa-8b31-b15428849e44.png?ex=657f4561&is=656cd061&hm=8125c5ad344670e41357884cb46f35f9ced2be05892a9122631e52857e263523&",
+    refHeight: 2543,
+    refWidth: 765,
+    tuerchenConfigs: calendarConfig
+}

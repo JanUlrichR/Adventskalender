@@ -2,13 +2,21 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import {Adventskalender} from "./Adventskalender";
+import {
+    QueryClient,
+    QueryClientProvider,
+} from '@tanstack/react-query'
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
+
+const queryClient = new QueryClient()
 root.render(
   <React.StrictMode>
-    <Adventskalender />
+      <QueryClientProvider client={queryClient}>
+          <Adventskalender />
+      </QueryClientProvider>
   </React.StrictMode>
 );
 
