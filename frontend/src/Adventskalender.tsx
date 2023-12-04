@@ -69,7 +69,6 @@ export const Adventskalender: React.FunctionComponent<{}> = ({}) => {
     const widthMultiplier = window.innerWidth / adventskalenderConfig.refWidth;
     const heightMultiplier = window.innerHeight / adventskalenderConfig.refHeight
 
-
     return <div className={"Adventskalender"} style={{
         backgroundImage: "url(" + adventskalenderConfig.bgUrl + ")",
     }}
