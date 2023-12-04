@@ -21,20 +21,7 @@ const debug = false
 
 export const Adventskalender: React.FunctionComponent<{}> = ({}) => {
     const [currentTuerchen, setCurrentTuerchen] = useState<TuerchenConfig | undefined>(undefined);
-    const [config, setConfig] = useState<TuerchenConfig[]>([
-        {day: 1, md: "# Hi, *Pluto*!", openable: true, x: 100, y: 100, width: 100, height: 100},
-        {
-            day: 2,
-            md: "# Hi, *Pluto2*! [Test](https://google.com)# Hi, *Pluto2*! [Test](https://google.com)",
-            openable: true,
-            title: "Snowy surprise",
-            x: 300,
-            y: 300,
-            width: 100,
-            height: 100
-        },
-        {day: 3, md: "![image info](https://api.memegen.link/images/buzz/memes/memes_everywhere.webp?token=wxgjeu3jll4dt9q6fihy&width=800)", openable: true, x: 500, y: 500, width: 100, height: 100},
-    ]);
+    const [config, setConfig] = useState<TuerchenConfig[]>([]);
 
     const openTuerchen = (tuerchenConfig: TuerchenConfig) => setCurrentTuerchen(tuerchenConfig)
     const closeTuerchen = () => setCurrentTuerchen(undefined)
@@ -58,7 +45,7 @@ export const Adventskalender: React.FunctionComponent<{}> = ({}) => {
 
 
     return <div className={"Adventskalender"} style={{
-        backgroundImage: "url(" + "https://www.farmeramania.de/wp-content/blogs.dir/19/files/2020/12/Wallpaper-Winter-kalender-2020.jpg" + ")",
+        backgroundImage: "url(" + "https://cdn.discordapp.com/attachments/108572403575058432/1180946764728123453/lenbei_snowy_village_at_night_24_houses_advent_calendar_e64baf5c-9c7b-4ffa-8b31-b15428849e44.png?ex=657f4561&is=656cd061&hm=8125c5ad344670e41357884cb46f35f9ced2be05892a9122631e52857e263523&" + ")",
     }}
                 onClick={addTuerchen}
     >
