@@ -36,14 +36,14 @@ export const Adventskalender: React.FunctionComponent<{}> = ({}) => {
     const { isLoading, error, data } = useQuery({
         queryKey: ['tuerchen'],
         queryFn: () =>
-            fetch('http://server.robens.tech/advent/api/tuerchen').then(
+            fetch('https://server.robens.tech/advent/api/tuerchen').then(
                 (res) => res.json(),
             ),
     })
 
     if (isLoading) return <>Loading</>
 
-    if (error) return <>'An error has occurred: ' + error.message</>
+    if (error) return <>'An error has occurred: ' + {error.message}</>
     const adventskalenderConfig = data.message as AdventskalenderConfig
 
     const openTuerchen = (tuerchenConfig: TuerchenConfig) => setCurrentTuerchen(tuerchenConfig)
