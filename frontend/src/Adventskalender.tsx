@@ -66,14 +66,13 @@ export const Adventskalender: React.FunctionComponent<{}> = ({}) => {
         console.log(e)
     }*/
 
-    const widthMultiplier = window.innerWidth / adventskalenderConfig.refWidth;
-    const heightMultiplier = window.innerHeight / adventskalenderConfig.refHeight
+
 
     return <div className={"Adventskalender"} style={{
         backgroundImage: "url(" + adventskalenderConfig.bgUrl + ")",
     }}
     >
-        {adventskalenderConfig.tuerchenConfigs.map(tc => <Tuerchen cfg={tc} openTuerchen={() => tc.openable ? openTuerchen(tc) : {}} heightMultiplier={heightMultiplier} widthMultiplier={widthMultiplier}/>)}
+        {adventskalenderConfig.tuerchenConfigs.map(tc => <Tuerchen cfg={tc} openTuerchen={() => tc.openable ? openTuerchen(tc) : {}} refHeight={ adventskalenderConfig.refHeight} refWidth={adventskalenderConfig.refWidth}/>)}
         {currentTuerchen && <TuerchenContent tuerchenConfig={currentTuerchen} closeModal={closeTuerchen}/>}
     </div>
 }
