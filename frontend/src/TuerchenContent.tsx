@@ -32,7 +32,7 @@ ${tuerchenConfig.md}
     >
         <div style={{display: "flex", justifyContent: "center", fontSize: "25px"}}>
             <div style={{width: "80%"}}>
-                <Markdown>
+                <Markdown components={{img:({node,...props})=><img style={{maxWidth:'60%'}}{...props}/>}}>
                     {markdown}
                 </Markdown>
             </div>
