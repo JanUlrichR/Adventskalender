@@ -9,7 +9,7 @@ export const TuerchenContent: React.FunctionComponent<{ tuerchenConfig: Tuerchen
                                                                                                                      }) => {
 
     const markdown = `
-# Tag ${tuerchenConfig.day} ${tuerchenConfig.title ? tuerchenConfig.title: ""}  
+# Day ${tuerchenConfig.day} ${tuerchenConfig.title ? tuerchenConfig.title: ""}  
 
 ${tuerchenConfig.md}
     `
@@ -30,8 +30,8 @@ ${tuerchenConfig.md}
             }
         }}
     >
-        <div style={{display: "flex", justifyContent: "center"}}>
-            <div>
+        <div style={{display: "flex", justifyContent: "center", fontSize: "25px"}}>
+            <div style={{width: "80%"}}>
                 <Markdown>
                     {markdown}
                 </Markdown>
