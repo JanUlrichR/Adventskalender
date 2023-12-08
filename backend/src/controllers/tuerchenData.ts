@@ -5,7 +5,7 @@ const calendarConfig: TuerchenConfig[] = [
 
     {
         "day": 1,
-        "md": "In the cozy, snow-dusted town of Clearyville, nestled among rolling hills, a young girl named Emily embarked on a festive mission. She found an old advent calendar with 24 small, empty doors in her attic and imagined filling each with a special gift for the townsfolk. Her heart swelled at the thought of spreading Christmas cheer, beginning with a single door and a world of possibilities.",
+        "md": "In the cozy, snow-dusted town of Clearyville, nestled among rolling hills, a young girl named Emily embarked on a festive mission. She found an old advent calendar with 24 small, empty doors in her attic and imagined filling each with a special gift for the townsfolk. Her heart swelled at the thought of spreading Christmas cheer, beginning with a single door and a world of possibilities. ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182815087900246097/lenbei_In_the_cozy_snow-dusted_town_of_Clearyville_nestled_amon_fe73d66c-8de8-4abb-9ed8-ae0bf5e726f6.png?ex=65861164&is=65739c64&hm=a5a76d22063d1a2d828b54d15b09df6f723b53ee453b4ffacef2bad5819ee4f8&)",
         "openable": false,
         "x": 167,
         "y": 985,
@@ -14,7 +14,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 2,
-        "md": "At Clearyville's musty corner bakery, amongst the heavenly aroma of cinnamon and fresh bread, Mrs. Figgle listened to Emily's plan. With flour on her cheeks and mirth in her eyes, she admired the old calendar. \"I'll bake miniature gingerbread men for door one,\" she promised, her hands already at work kneading the dough for the holiday treats.",
+        "md": "At Clearyville's musty corner bakery, amongst the heavenly aroma of cinnamon and fresh bread, Mrs. Figgle listened to Emily's plan. With flour on her cheeks and mirth in her eyes, she admired the old calendar. \"I'll bake miniature gingerbread men for door one,\" she promised, her hands already at work kneading the dough for the holiday treats. ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182817192136417361/lenbei_little_girl_and_female_baker_in_a_bakery_at_work_childre_f32af475-c1c7-4e80-a7f8-402e47d780ec.png?ex=6586135a&is=65739e5a&hm=07daf6fe35cc2f91c572a7f4e3ae03e60b162ea9636908b36e17267f426557be&)",
         "openable": false,
         "x": 1326,
         "y": 673,
@@ -23,7 +23,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 3,
-        "md": "Mr. Barkley, the skilled woodworker with sawdust in his hair, crafted a miniature Christmas tree ornament with loving precision. He meticulously painted it green and dusted it with glitter. \"For door number two, a tiny token from Clearyville's own forest,\" he said, presenting it to Emily with a fatherly smile.",
+        "md": "Mr. Barkley, the skilled woodworker with sawdust in his hair, crafted a miniature Christmas tree ornament with loving precision. He meticulously painted it green and dusted it with glitter. \"For door number two, a tiny token from Clearyville's own forest,\" he said, presenting it to Emily with a fatherly smile. ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182819266249105558/lenbei_little_girl_with_friendly_fatherly_woodworker_in_his_sho_67aa339d-db7b-4edb-bf53-054451f53611.png?ex=65861548&is=6573a048&hm=e915ace11fc74a4aa7af602864fc6d1e2aae348139843c8468417e0d9e7e0fd0&)",
         "openable": false,
         "x": 1735,
         "y": 1165,
@@ -32,7 +32,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 4,
-        "md": "The next day, Emily's teacher saw the advent calendar and was moved by the sentiment. She rummaged through her desk and found a set of colorful pencils. \"For doors three and four, let these help create someone's masterpiece,\" she said, imagining Clearyville's children drawing their Christmas dreams.",
+        "md": "The next day, Emily's teacher saw the advent calendar and was moved by the sentiment. She rummaged through her desk and found a set of colorful pencils. \"For doors three and four, let these help create someone's masterpiece,\" she said, imagining Clearyville's children drawing their Christmas dreams. ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182821527989788672/lenbei_Female_teacher_handing_over_colored_pencils_to_little_gi_f805f3e9-d03e-4ae8-8296-69621a83ae66.png?ex=65861764&is=6573a264&hm=fb13793a93c7a4c82f4f8c520b590fc1604aee16d1927f5a92889b38021836ab&)",
         "openable": false,
         "x": 480,
         "y": 588,
@@ -41,7 +41,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 5,
-        "md": "Emily, with nimble fingers, knitted a small, red scarf, thinking of the fluffed-up birds braving the Clearyville winters. She imagined them nestled on the window sills, a heartwarming sight against the snow. This lovingly crafted piece would snugly fit behind door number five.",
+        "md": "Emily, with nimble fingers, knitted a small, red scarf, thinking of the fluffed-up birds braving the Clearyville winters. She imagined them nestled on the window sills, a heartwarming sight against the snow. This lovingly crafted piece would snugly fit behind door number five. ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182823208559329370/lenbei_little_girl_knitting_a_red_scarf_stylized_5148f59b-2583-4a0d-bdfd-0766b071173a.png?ex=658618f4&is=6573a3f4&hm=22c7a38d1e95ffcfe6fb336e5cd8793081d970671f6be65913a5cc971cbf5aa6&)",
         "openable": false,
         "x": 796,
         "y": 1023,
@@ -50,7 +50,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 6,
-        "md": "Generosity flowed as Mrs. Granger, after being helped with her snowy walk, offered shiny pennies from her old collection. \"For door number six, let these coins bring luck and rich memories,\" she said, her aged hands dropping them into Emily's eager palms.",
+        "md": "Generosity flowed as Mrs. Granger, after being helped with her snowy walk, offered shiny pennies from her old collection. \"For door number six, let these coins bring luck and rich memories,\" she said, her aged hands dropping them into Emily's eager palms. ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182827681633538189/lenbei_friendly_old_lady_gives_shiny_medals_to_little_girl_on_t_759d429d-524a-49fa-8632-196a8a41c7e8.png?ex=65861d1f&is=6573a81f&hm=dc7a52e93d8fd81ef23c6d98b235877958b54284866c2242f4ed203fe2b53704&)",
         "openable": false,
         "x": 1974,
         "y": 927,
