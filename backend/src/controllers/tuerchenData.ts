@@ -59,7 +59,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 7,
-        "md": "The warmth of music came next. Emily recorded the local choir's caroling session with a small tape recorder, their harmonies rich and joyful. She envisioned the delight it would bring when tucked behind door seven, filling someone's home with melodic bliss.",
+        "md": "The warmth of music came next. Emily recorded the local choir's caroling session with a small tape recorder, their harmonies rich and joyful. She envisioned the delight it would bring when tucked behind door seven, filling someone's home with melodic bliss.\n\n ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182994893551968266/lenbei_little_girl_recording_a_Choire_with_a_cassette_recorder__17118e99-9764-4640-a79a-9a87e6dc8e12.png?ex=6586b8d9&is=657443d9&hm=8748e6333eebb08e61f05a3a84a7f62b921a37c6e130c7ca5786530ce96097ae&)",
         "openable": false,
         "x": 1557,
         "y": 619,
@@ -68,7 +68,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 8,
-        "md": "Out in the frosty park, Emily gathered pine cones, dusting off the snow and carrying them home. With a dab of gold paint and a loop of red ribbon, she transformed them into ornate decorations, ready to adorn the inside of door number eight.",
+        "md": "Out in the frosty park, Emily gathered pine cones, dusting off the snow and carrying them home. With a dab of gold paint and a loop of red ribbon, she transformed them into ornate decorations, ready to adorn the inside of door number eight.\n\n ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182996110273433600/lenbei_little_child_with_golden_pine_cone_red_ribbon_childrens__9b8a179e-3eb5-4454-9a4b-fd0544c64b74.png?ex=6586b9fb&is=657444fb&hm=a8c7d3a857a9fe0576b92a1b0301c32f6a0ba4ebe1ea2df4036a096a8cc0dfec&)",
         "openable": false,
         "x": 745,
         "y": 609,
@@ -77,7 +77,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 9,
-        "md": "Mr. Hallewell, Clearyville's friendly mailman with stories of the world, offered stamps from exotic places. He placed them in Emily's hands for door nine with a wink. \"Every stamp is a passport to adventure,\" he chuckled, thinking of the tales each tiny paper held.",
+        "md": "Mr. Hallewell, Clearyville's friendly mailman with stories of the world, offered stamps from exotic places. He placed them in Emily's hands for door nine with a wink. \"Every stamp is a passport to adventure,\" he chuckled, thinking of the tales each tiny paper held. \n\n ![](https://cdn.discordapp.com/attachments/1006703877376180315/1182996821161812010/lenbei_mailman_hands_over_post_stamps_to_little_child_on_snowy__870da4d7-e8b2-43d5-aac8-7b8b8d2da270.png?ex=6586baa5&is=657445a5&hm=e7bb59042c791cac91131d56d67b00d429f7da402d08aed3cd129e97daf95821&)",
         "openable": false,
         "x": 1349,
         "y": 968,
@@ -86,7 +86,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 10,
-        "md": "Soft candlelight would shine from door ten, thanks to the town's chandler. He shaped tiny candles scented with pine and cranberry, their flames meant to cast a holiday glow in Clearyville's homes, a small beacon against the long winter nights.",
+        "md": "Soft candlelight would shine from door ten, thanks to the town's chandler. He shaped tiny candles scented with pine and cranberry, their flames meant to cast a holiday glow in Clearyville's homes, a small beacon against the long winter nights. \n\n ![](https://cdn.discordapp.com/attachments/1006703877376180315/1183000281227735090/lenbei_little_girl_picks_up_a_single_big_candle_in_a_candle_sho_80da79eb-f8e7-4558-8442-7a84bfebf559.png?ex=6586bdde&is=657448de&hm=ddac1478d9be005b2270c4810907d979f02bb770b3fdfc2af996ae1cccd23e36&)",
         "openable": false,
         "x": 2254,
         "y": 554,
@@ -203,7 +203,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 23,
-        "md": "As Christmas Eve's eve arrived, Mr. Barkley returned with a beautifully carved wooden scene of Clearyville for the penultimate door. \"For door twenty-three, the heart and scene of our town,\" he said, fitting the piece snugly into place.",
+        "md": "As Christmas Eve arrived, Mr. Barkley returned with a beautifully carved wooden scene of Clearyville for the penultimate door. \"For door twenty-three, the heart and scene of our town,\" he said, fitting the piece snugly into place.",
         "openable": false,
         "x": 1536,
         "y": 1022,
@@ -212,7 +212,7 @@ const calendarConfig: TuerchenConfig[] = [
     },
     {
         "day": 24,
-        "md": "Christmas Eve dawned bright and Emily unveiled the final door. Behind door twenty-four, she nestled a special message: \"Clearyville, may this advent calendar remind us all that the warmth of Christmas lies in the joy of sharing and the strength of our community. Happy holidays and a Merry Christmas to every one of you!\" As the last door opened, the townsfolk's hearts were filled to the brim with the love and care that Emily had spread, one door at a time.",
+        "md": "Christmas dawned bright and Emily unveiled the final door. Behind door twenty-four, she nestled a special message: \"Clearyville, may this advent calendar remind us all that the warmth of Christmas lies in the joy of sharing and the strength of our community. Happy holidays and a Merry Christmas to every one of you!\" As the last door opened, the townsfolk's hearts were filled to the brim with the love and care that Emily had spread, one door at a time.",
         "openable": false,
         "x": 1988,
         "y": 549,
