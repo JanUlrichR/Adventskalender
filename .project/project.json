@@ -1,0 +1,42 @@
+{
+  "title": "Advent 2024",
+  "description": "A story of how Emily fills up her calender with the help of the people from her village, showing that kindness and helping others is the real spirit of christmas.",
+  "skills": [
+    {
+      "name": "TypeScript",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+      "website": "https://www.typescriptlang.org"
+    },
+    {
+      "name": "React",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "website": "https://reactjs.org"
+    },
+    {
+      "name": "Node.js",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      "website": "https://nodejs.org"
+    },
+    {
+      "name": "CSS",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      "website": "https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+    {
+      "name": "ChatGPT",
+      "iconUrl": "https://worldvectorlogo.com/download/openai-2.svg",
+      "website": "https://openai.com/chatgpt"
+    },
+    {
+      "name": "Midjourney",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Midjourney_Emblem.svg",
+      "website": "https://www.midjourney.com"
+    },
+    {
+      "name": "Nginx",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg",
+      "website": "https://nginx.org"
+    }
+  ],
+  "screenshots": [],
+}
